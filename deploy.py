@@ -72,6 +72,6 @@ if uploaded_file is not None:
 
         # Display results
         if predicted.item() == 0:
-            st.write("This Image does NOT contain a brain tumor.")
+            st.write("This MRI Image does NOT contain a brain tumor.")
         else:
-            st.write("This Image contains a brain tumor.")
+            st.write("This MRI Image contains a brain tumor.")
