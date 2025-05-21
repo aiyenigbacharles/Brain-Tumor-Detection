@@ -11,6 +11,7 @@ This project is a deep learning-based web application to detect brain tumors fro
 - Pre-trained model weights included
 
 ## Demo
+![image](https://github.com/user-attachments/assets/0fcaa37d-ed70-490b-bb8d-21098909e823)
 
 <!-- You can add screenshots of your Streamlit app here -->
 
